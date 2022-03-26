@@ -1,0 +1,1 @@
+{"_useCustomAssetPath":false,"_assetPath":"Assets/UniversalMediaPlayer","_useAudioSource":false,"_useExternalLibs":true,"_additionalLibsPath":"","_playersAndroid":7,"_playersIPhone":3,"_androidExportedPaths":[]}
